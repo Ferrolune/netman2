@@ -1,0 +1,305 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-06-14 15:35 CEST
+Nmap scan report for 192.168.100.0
+Nmap scan report for ubnt (192.168.100.1)
+22/tcp   open   ssh
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.2
+Nmap scan report for 192.168.100.3
+Nmap scan report for 192.168.100.4
+Nmap scan report for 192.168.100.5
+Nmap scan report for 192.168.100.6
+Nmap scan report for 192.168.100.7
+Nmap scan report for 192.168.100.8
+Nmap scan report for 192.168.100.9
+Nmap scan report for 192.168.100.10
+Nmap scan report for 192.168.100.11
+Nmap scan report for 192.168.100.12
+Nmap scan report for 192.168.100.13
+Nmap scan report for 192.168.100.14
+Nmap scan report for 192.168.100.15
+Nmap scan report for 192.168.100.16
+Nmap scan report for 192.168.100.17
+Nmap scan report for 192.168.100.18
+Nmap scan report for 192.168.100.19
+Nmap scan report for 192.168.100.20
+Nmap scan report for 192.168.100.21
+Nmap scan report for 192.168.100.22
+Nmap scan report for 192.168.100.23
+Nmap scan report for 192.168.100.24
+Nmap scan report for 192.168.100.25
+Nmap scan report for 192.168.100.26
+Nmap scan report for 192.168.100.27
+Nmap scan report for 192.168.100.28
+Nmap scan report for 192.168.100.29
+Nmap scan report for 192.168.100.30
+Nmap scan report for 192.168.100.31
+Nmap scan report for 192.168.100.32
+Nmap scan report for 192.168.100.33
+Nmap scan report for 192.168.100.34
+Nmap scan report for 192.168.100.35
+Nmap scan report for 192.168.100.36
+Nmap scan report for 192.168.100.37
+Nmap scan report for 192.168.100.38
+Nmap scan report for 192.168.100.39
+Nmap scan report for 192.168.100.40
+Nmap scan report for 192.168.100.41
+Nmap scan report for 192.168.100.42
+Nmap scan report for 192.168.100.43
+Nmap scan report for 192.168.100.44
+Nmap scan report for 192.168.100.45
+Nmap scan report for 192.168.100.46
+Nmap scan report for 192.168.100.47
+Nmap scan report for 192.168.100.48
+Nmap scan report for 192.168.100.49
+Nmap scan report for 192.168.100.50
+Nmap scan report for 192.168.100.51
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.52
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.53
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.54
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.55
+Nmap scan report for 192.168.100.56
+Nmap scan report for 192.168.100.57
+Nmap scan report for 192.168.100.58
+Nmap scan report for 192.168.100.59
+Nmap scan report for 192.168.100.60
+21/tcp   open   ftp
+23/tcp   open   telnet
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.61
+Nmap scan report for 192.168.100.62
+21/tcp   open   ftp
+23/tcp   open   telnet
+80/tcp   open   http
+443/tcp  open   https
+Nmap scan report for 192.168.100.63
+80/tcp   open     http
+139/tcp  open     netbios-ssn
+Nmap scan report for 192.168.100.64
+80/tcp   open     http
+139/tcp  open     netbios-ssn
+Nmap scan report for 192.168.100.65
+Nmap scan report for 192.168.100.66
+Nmap scan report for 192.168.100.67
+Nmap scan report for 192.168.100.68
+Nmap scan report for 192.168.100.69
+Nmap scan report for 192.168.100.70
+Nmap scan report for 192.168.100.71
+Nmap scan report for 192.168.100.72
+Nmap scan report for 192.168.100.73
+Nmap scan report for 192.168.100.74
+Nmap scan report for 192.168.100.75
+Nmap scan report for 192.168.100.76
+Nmap scan report for 192.168.100.77
+Nmap scan report for 192.168.100.78
+Nmap scan report for 192.168.100.79
+Nmap scan report for 192.168.100.80
+Nmap scan report for 192.168.100.81
+Nmap scan report for 192.168.100.82
+Nmap scan report for 192.168.100.83
+Nmap scan report for 192.168.100.84
+Nmap scan report for 192.168.100.85
+Nmap scan report for 192.168.100.86
+Nmap scan report for 192.168.100.87
+Nmap scan report for 192.168.100.88
+Nmap scan report for 192.168.100.89
+Nmap scan report for 192.168.100.90
+Nmap scan report for 192.168.100.91
+Nmap scan report for 192.168.100.92
+Nmap scan report for 192.168.100.93
+Nmap scan report for 192.168.100.94
+Nmap scan report for 192.168.100.95
+Nmap scan report for 192.168.100.96
+Nmap scan report for 192.168.100.97
+Nmap scan report for 192.168.100.98
+Nmap scan report for 192.168.100.99
+139/tcp  open     netbios-ssn
+Nmap scan report for 192.168.100.100
+139/tcp  open     netbios-ssn
+3389/tcp open     ms-wbt-server
+Nmap scan report for 192.168.100.101
+Nmap scan report for Chromecast-Audio.localdomain (192.168.100.102)
+Nmap scan report for Retail-3xSign.localdomain (192.168.100.103)
+139/tcp  open     netbios-ssn
+3389/tcp open     ms-wbt-server
+Nmap scan report for DESKTOP-TMLHFOU.localdomain (192.168.100.104)
+139/tcp  open     netbios-ssn
+Nmap scan report for Google-Home-Mini.localdomain (192.168.100.105)
+Nmap scan report for 192.168.100.106
+Nmap scan report for GE-Gunilla-Hp.localdomain (192.168.100.107)
+Nmap scan report for unifi (192.168.100.108)
+Nmap scan report for Retail-Henke.localdomain (192.168.100.109)
+80/tcp   open     http
+139/tcp  open     netbios-ssn
+3389/tcp open     ms-wbt-server
+Nmap scan report for Retails-iPad.localdomain (192.168.100.110)
+Nmap scan report for 192.168.100.111
+Nmap scan report for dator.localdomain (192.168.100.112)
+Nmap scan report for M2007J20CG-POCOX3NFC.localdomain (192.168.100.113)
+Nmap scan report for retail-chief3monitor.localdomain (192.168.100.114)
+139/tcp  open     netbios-ssn
+Nmap scan report for Galaxy-S20.localdomain (192.168.100.115)
+Nmap scan report for Safa--iPhone.localdomain (192.168.100.116)
+Nmap scan report for DESKTOP-FLTB7OP.localdomain (192.168.100.117)
+Nmap scan report for Pats-Galaxy-S10.localdomain (192.168.100.118)
+Nmap scan report for HP.localdomain (192.168.100.119)
+Nmap scan report for Galaxy-S9.localdomain (192.168.100.120)
+Nmap scan report for DESKTOP-J7E2A0G.localdomain (192.168.100.121)
+Nmap scan report for DESKTOP-6UAABUE.localdomain (192.168.100.122)
+139/tcp  open     netbios-ssn
+Nmap scan report for HUAWEI_P30_Pro-348c03b586.localdomain (192.168.100.123)
+Nmap scan report for LAPTOP-A1VJFEU5.localdomain (192.168.100.124)
+Nmap scan report for DESKTOP-214QP55.localdomain (192.168.100.125)
+Nmap scan report for 192.168.100.126
+Nmap scan report for 192.168.100.127
+22/tcp   open   ssh
+Nmap scan report for Admin-PC.localdomain (192.168.100.128)
+Nmap scan report for retail-123a7dc3.localdomain (192.168.100.129)
+Nmap scan report for 192.168.100.130
+Nmap scan report for debianLaptop.localdomain (192.168.100.131)
+Nmap scan report for 192.168.100.132
+Nmap scan report for Bemoni1.localdomain (192.168.100.133)
+Nmap scan report for Williams-iPhone.localdomain (192.168.100.134)
+Nmap scan report for webbserver.localdomain (192.168.100.135)
+21/tcp   open   ftp
+22/tcp   open   ssh
+80/tcp   open   http
+Nmap scan report for AD003.localdomain (192.168.100.136)
+3389/tcp open     ms-wbt-server
+Nmap scan report for DESKTOP-72NUM0Q.localdomain (192.168.100.137)
+Nmap scan report for 192.168.100.138
+Nmap scan report for STAL-RDS-C2D-2.localdomain (192.168.100.139)
+Nmap scan report for 404--Not-Found.localdomain (192.168.100.140)
+Nmap scan report for Samsung.localdomain (192.168.100.141)
+Nmap scan report for Laravel.localdomain (192.168.100.142)
+Nmap scan report for homeassistant.localdomain (192.168.100.143)
+139/tcp  open   netbios-ssn
+Nmap scan report for Admin-Dator.localdomain (192.168.100.144)
+139/tcp  open   netbios-ssn
+Nmap scan report for DESKTOP-ND6COO6.localdomain (192.168.100.145)
+139/tcp  open     netbios-ssn
+Nmap scan report for DESKTOP-PAKPCS5.localdomain (192.168.100.146)
+Nmap scan report for 192.168.100.147
+22/tcp   open   ssh
+Nmap scan report for DIR-810L.localdomain (192.168.100.148)
+Nmap scan report for PALT-POS-SHARP1.localdomain (192.168.100.149)
+Nmap scan report for SB-Privat-HP.localdomain (192.168.100.150)
+Nmap scan report for HUAWEI_nova_5T-796b9de1c8.localdomain (192.168.100.151)
+Nmap scan report for DESKTOP-TD3CIOC.localdomain (192.168.100.152)
+Nmap scan report for DESKTOP-CRVH01D.localdomain (192.168.100.153)
+Nmap scan report for Min-iPhone3.localdomain (192.168.100.154)
+Nmap scan report for DESKTOP-GMJN5R9.localdomain (192.168.100.155)
+Nmap scan report for ZTE-A2020G-Pro.localdomain (192.168.100.156)
+Nmap scan report for STAL-HANS-LAPTOP.localdomain (192.168.100.157)
+Nmap scan report for Hasse-Dator.localdomain (192.168.100.158)
+Nmap scan report for Lars-Erik-8460.localdomain (192.168.100.159)
+Nmap scan report for AD050.localdomain (192.168.100.160)
+Nmap scan report for 192.168.100.161
+Nmap scan report for 192.168.100.162
+Nmap scan report for iPad.localdomain (192.168.100.163)
+Nmap scan report for Jenny-Dator.localdomain (192.168.100.164)
+Nmap scan report for DESKTOP-F7V17CC.localdomain (192.168.100.165)
+Nmap scan report for 192.168.100.166
+Nmap scan report for ThinkPad.localdomain (192.168.100.167)
+Nmap scan report for DESKTOP-3LKJ2TG.localdomain (192.168.100.168)
+Nmap scan report for RedmiNote8Pro-Pernil.localdomain (192.168.100.169)
+Nmap scan report for DESKTOP-N9CU1ML.localdomain (192.168.100.170)
+Nmap scan report for minint-p9r072l.localdomain (192.168.100.171)
+Nmap scan report for ZebastianiPhone.localdomain (192.168.100.172)
+Nmap scan report for OnePlus6.localdomain (192.168.100.173)
+Nmap scan report for DESKTOP-3I35F2O.localdomain (192.168.100.174)
+Nmap scan report for 192.168.100.175
+Nmap scan report for DESKTOP-3V3CPE6.localdomain (192.168.100.176)
+Nmap scan report for SCA4.localdomain (192.168.100.177)
+Nmap scan report for td008.localdomain (192.168.100.178)
+Nmap scan report for WB09647.localdomain (192.168.100.179)
+Nmap scan report for DESKTOP-IKMHT79.localdomain (192.168.100.180)
+Nmap scan report for 192.168.100.181
+Nmap scan report for DESKTOP-NL039PN.localdomain (192.168.100.182)
+Nmap scan report for KristinaiPhone.localdomain (192.168.100.183)
+Nmap scan report for HBergquistLinux.localdomain (192.168.100.184)
+22/tcp   open   ssh
+80/tcp   open   http
+Nmap scan report for WB09113.localdomain (192.168.100.185)
+Nmap scan report for DESKTOP-4NOHI2V.localdomain (192.168.100.186)
+Nmap scan report for Galaxy-A5-2017.localdomain (192.168.100.187)
+Nmap scan report for WIN-FLU0OQENPG5.localdomain (192.168.100.188)
+22/tcp   open     ssh
+139/tcp  open     netbios-ssn
+Nmap scan report for ZEBLON-Birgi-21.localdomain (192.168.100.189)
+Nmap scan report for DESKTOP-K5O8AUJ.localdomain (192.168.100.190)
+Nmap scan report for WIN-SDU7HJNSKUQ.localdomain (192.168.100.191)
+Nmap scan report for 192.168.100.192
+Nmap scan report for WIN-2FCT9N1RH0S.localdomain (192.168.100.193)
+Nmap scan report for WIN-MH1RP95TUEP.localdomain (192.168.100.194)
+Nmap scan report for DESKTOP-2TD46NP.localdomain (192.168.100.195)
+Nmap scan report for DESKTOP-5H7TU8U.localdomain (192.168.100.196)
+Nmap scan report for TKE-leno-i5.localdomain (192.168.100.197)
+Nmap scan report for DESKTOP-5ELRVUE.localdomain (192.168.100.198)
+Nmap scan report for DESKTOP-3Q65QC9.localdomain (192.168.100.199)
+Nmap scan report for DESKTOP-BRQQQPG.localdomain (192.168.100.200)
+Nmap scan report for 192.168.100.201
+Nmap scan report for 192.168.100.202
+Nmap scan report for 192.168.100.203
+Nmap scan report for 192.168.100.204
+Nmap scan report for 192.168.100.205
+Nmap scan report for 192.168.100.206
+Nmap scan report for 192.168.100.207
+Nmap scan report for 192.168.100.208
+Nmap scan report for 192.168.100.209
+Nmap scan report for 192.168.100.210
+Nmap scan report for 192.168.100.211
+Nmap scan report for 192.168.100.212
+Nmap scan report for 192.168.100.213
+Nmap scan report for 192.168.100.214
+Nmap scan report for 192.168.100.215
+Nmap scan report for 192.168.100.216
+Nmap scan report for 192.168.100.217
+Nmap scan report for 192.168.100.218
+Nmap scan report for 192.168.100.219
+Nmap scan report for 192.168.100.220
+Nmap scan report for 192.168.100.221
+Nmap scan report for 192.168.100.222
+Nmap scan report for 192.168.100.223
+Nmap scan report for 192.168.100.224
+Nmap scan report for 192.168.100.225
+Nmap scan report for 192.168.100.226
+Nmap scan report for 192.168.100.227
+Nmap scan report for 192.168.100.228
+Nmap scan report for 192.168.100.229
+Nmap scan report for 192.168.100.230
+Nmap scan report for 192.168.100.231
+Nmap scan report for 192.168.100.232
+Nmap scan report for 192.168.100.233
+Nmap scan report for 192.168.100.234
+Nmap scan report for 192.168.100.235
+Nmap scan report for 192.168.100.236
+Nmap scan report for 192.168.100.237
+Nmap scan report for 192.168.100.238
+Nmap scan report for 192.168.100.239
+Nmap scan report for 192.168.100.240
+Nmap scan report for 192.168.100.241
+Nmap scan report for 192.168.100.242
+Nmap scan report for 192.168.100.243
+Nmap scan report for 192.168.100.244
+Nmap scan report for 192.168.100.245
+Nmap scan report for 192.168.100.246
+Nmap scan report for 192.168.100.247
+Nmap scan report for 192.168.100.248
+Nmap scan report for 192.168.100.249
+Nmap scan report for 192.168.100.250
+Nmap scan report for 192.168.100.251
+Nmap scan report for 192.168.100.252
+Nmap scan report for 192.168.100.253
+Nmap scan report for 192.168.100.254
+Nmap scan report for 192.168.100.255
+Nmap done: 256 IP addresses (256 hosts up) scanned in 22.46 seconds
