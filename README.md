@@ -1,2 +1,2 @@
 # netman2
-Primitive network explorer written in bash.
+Primitive network explorer written in bash
